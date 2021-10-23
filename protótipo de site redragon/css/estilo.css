@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+ .bg-menu{
+  background-color:#000000;	 	 
+}
+.cor1{
+	 
+	 color:#ffffff!important;
+ }
+ .tamanho-img{
+    max-height:700px;
+	
+ }
+ .fonte1 {
+	 
+	  
+	   }
+body{
+background-color:#000000;
+color:#ffffff;
+
+}
